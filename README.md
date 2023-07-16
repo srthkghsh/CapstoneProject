@@ -47,6 +47,4 @@ This project is built upon TensorFlow.js and the Speech Commands library, which 
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
----
 
-Feel free to provide any additional information or instructions specific to your project.
